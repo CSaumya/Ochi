@@ -4,12 +4,7 @@
 🚀 Ochi UI Clone
 
 A modern UI clone of Ochi.design, focused on smooth animations and a clean, premium user experience.
-
----
-
 This project recreates the look and feel of Ochi using modern frontend tools, with emphasis on animations, responsiveness and component-based design.
-
----
 
 🛠️ Tech Stack
 
@@ -17,8 +12,6 @@ This project recreates the look and feel of Ochi using modern frontend tools, wi
 🎨 Tailwind CSS
 🎬 Framer Motion
 🧩 GSAP
-
----
 
 🎯 Features
 
@@ -28,16 +21,11 @@ This project recreates the look and feel of Ochi using modern frontend tools, wi
 * Interactive UI
 * Play with eyes play section
 
-
----
-
 ## 📌 Note
 
 This is a **UI clone for learning purposes only**.
 Credits to the original Ochi design.
 
----
-
 ## 🙌 Author
 
-Made by **Saumya**
+Made by Saumya
